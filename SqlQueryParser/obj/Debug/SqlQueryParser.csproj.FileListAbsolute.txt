@@ -1,0 +1,1 @@
+c:\users\saravanan.doraiswamy\documents\visual studio 2013\Projects\SqlQueryParser\SqlQueryParser\bin\Debug\SqlQueryParser.exe.config
